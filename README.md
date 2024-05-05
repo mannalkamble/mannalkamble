@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Mannal Kamble! 👋
 
-<!--
-**mannalkamble/mannalkamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a Master's in Computer Engineering at New York University, specializing in Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+👨‍💻 **About Me:**
+- **Location:** New York, NY, USA
+- **Contact:** [Email](mailto:mnnlkamble@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mannal-kamble)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack:**
+- **Languages:** Python, SQL, R, C++, HTML, CSS
+- **Libraries:** PySpark, Flask, pandas, NumPy, Matplotlib, PyTorch, Tensorflow, sklearn
+- **Frameworks/Tools:** AWS, Azure, Spark, Hadoop, Jupyter, Tableau, Power BI
+- **Databases:** PostgreSQL, MongoDB, Oracle 11g
+
+🌱 **I’m currently learning:**
+
+- Machine Unlearning in LLMs
+
+📈 **I'm keen on:**
+- Enhancing data-driven decision making in real-world applications.
+- Exploring the intersection of technology and societal impacts, particularly in sustainability and public health.
+
+Feel free to check out my repositories and reach out if you are interested in collaborating on projects or research!
